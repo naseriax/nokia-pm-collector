@@ -1,0 +1,5 @@
+Shelf Name,Shelf IP Address,Login,Username,Password
+site1,172.16.0.1,cli,admin,admin
+site2,172.16.0.2,cli,admin,admin
+site3,172.16.0.3,cli,admin,admin
+site4,172.16.0.4,cli,admin,admin
